@@ -1,0 +1,31 @@
+{
+  "roles": {
+    "Software Developer": {
+      "level": "Entry",
+      "questions": [
+        "What is object-oriented programming?",
+        "Explain the difference between stack and heap memory.",
+        "What is an API?",
+        "What is debugging and why is it important?"
+      ]
+    },
+    "Data Analyst": {
+      "level": "Entry",
+      "questions": [
+        "What is data cleaning?",
+        "Explain the difference between structured and unstructured data.",
+        "What is normalization?",
+        "What is the purpose of data visualization?"
+      ]
+    },
+    "AI / ML Beginner": {
+      "level": "Entry",
+      "questions": [
+        "What is Artificial Intelligence?",
+        "What is machine learning?",
+        "What is training data?",
+        "What is overfitting?"
+      ]
+    }
+  }
+}
